@@ -1,5 +1,11 @@
 # pixiv-rank
 
+## 安装第三方依赖
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 获取REFRESH_TOKEN
 
 [@ZipFile Pixiv OAuth Flow](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) 或 [OAuth with Selenium/ChromeDriver](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
