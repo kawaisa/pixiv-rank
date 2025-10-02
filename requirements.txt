@@ -1,0 +1,6 @@
+requests>=2.27.1
+requests_toolbelt>=0.9.1
+cloudscraper>=1.2.58
+typeguard>=2.13.3
+typing-extensions>=4.1.1
+pydantic >=1.9.0
